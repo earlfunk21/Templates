@@ -1,0 +1,9 @@
+/** @format */
+
+@use "custom";
+@use "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+header{
+  background: linear-gradient(to right, $blue-jeans-dark, $secondary);
+}
